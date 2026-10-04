@@ -381,6 +381,7 @@ The design uses a 20 ns clock constraint corresponding to 50 MHz.
 ## Author
 
 **Raman R**
+**Rama Krishna Prasadh H**
 
 Electronics and Communication Engineering
 Interests: VLSI, FPGA Design, Digital Hardware Architecture, RISC-V and Quantum-Inspired Computing
